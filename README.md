@@ -1,3 +1,14 @@
+---
+title: HF Deploy Demo
+emoji: 🚀
+colorFrom: blue
+colorTo: indigo
+sdk: gradio
+sdk_version: "5.0.0"
+app_file: app.py
+pinned: false
+---
+
 # HF Deploy Demo
 
 GitHub → Hugging Face Space 自动部署模板。
